@@ -1,2 +1,3 @@
-const score = 65;
-const result = score >= 60 ? "pass" : "fail";
+//ternary operators provides a shorthand for if-else statements
+let score = 65;
+let result = score >= 60 ? "pass" : "fail";
